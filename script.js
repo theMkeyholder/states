@@ -21,13 +21,13 @@ let phaseChanges = [
     name: "Freezing",
     description: `
       When a substance's temperature is lowered to its freezing point (for water it would be 32 F or 0 C), hydrogen bonds begin forming.<br>
-      These hydrogen bonds make the molecules unable to move as much and makes them more stationary.
+      These hydrogen bonds make the substance become a solid and moves as such.
     `
   },
   {
     name: "Melting",
     description: `
-      When the energy INCREASES while a substance is frozen, the energy, rather than making the temperature increase, breaks the hydrogen bonds.
+      When the energy INCREASES while a substance is frozen, the energy, rather than making the temperature increase, breaks the hydrogen bonds.<br>This makes it so it is no longer frozen and it can move in the liquid state again.
     `
   },
   {
