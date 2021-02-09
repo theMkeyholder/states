@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hello!</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <canvas id="canvas"></canvas>
+    <button onclick="currentModel = 'solidmodel1'">
+      Solid Model (frame 1)
+    </button>
+    <button onclick="currentModel = 'solidmodel2'">
+      Solid Model (frame 2)
+    </button>
+    <button onclick="currentModel = 'liquidmodel1'">
+      Liquid Model (frame 1)
+    </button>
+    <button onclick="currentModel = 'liquidmodel2'">
+      Liquid Model (frame 2)
+    </button>
+    <button onclick="currentModel = 'gasmodel1'">
+      Gas Model (frame 1)
+    </button>
+    <button onclick="currentModel = 'gasmodel2'">
+      Gas Model (frame 2)
+    </button>
+    <h2>
+      Phase Changes
+    </h2>
+    <button onclick="pointer--">
+      Back
+    </button>
+    <button onclick="pointer++">
+      Next
+    </button>
+    <div id="text">
+      
+    </div>
+  </body>
+</html>

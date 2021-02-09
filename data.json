@@ -1,0 +1,238 @@
+{
+  "solidmodel1": {
+    "objects": [{
+      "type": "water",
+      "pos": [500,200],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [550,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [500,300],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [450,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [600,200],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [650,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [600,300],
+      "dir": 0
+    }
+    ]
+  },
+  "solidmodel2": {
+    "objects": [{
+      "type": "water",
+      "pos": [500,200],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [550,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [500,300],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [450,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [600,200],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [650,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [600,300],
+      "dir": 0
+    }
+    ]
+  },
+  "liquidmodel1": {
+    "objects": [{
+      "type": "water",
+      "pos": [500,200],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [500,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [550,200],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [450,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [600,200],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [650,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [600,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [550,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [700,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [700,200]
+    },
+    {
+      "type": "water",
+      "pos": [700,150] 
+    }
+    ]
+  },
+  "liquidmodel2": {
+    "objects": [{
+      "type": "water",
+      "pos": [450,150],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [500,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [550,200],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [450,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [600,150],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [650,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [600,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [550,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [700,250],
+      "dir": 0
+    },
+    {
+      "type": "water",
+      "pos": [700,200]
+    },
+    {
+      "type": "water",
+      "pos": [650,200] 
+    }
+    ]
+  },
+  "gasmodel1": {
+    "objects": [
+      {
+        "type": "water",
+        "pos": [450,150]
+      },
+      {
+        "type": "water",
+        "pos": [500,200]
+      },
+      {
+        "type": "water",
+        "pos": [520,270]
+      },
+      {
+        "type": "water",
+        "pos": [450,240]
+      },
+      {
+        "type": "water",
+        "pos": [570,240]
+      }
+    ]
+  },
+  "gasmodel2": {
+    "objects": [
+      {
+        "type": "water",
+        "pos": [430,130]
+      },
+      {
+        "type": "water",
+        "pos": [500,200]
+      },
+      {
+        "type": "water",
+        "pos": [520,270]
+      },
+      {
+        "type": "water",
+        "pos": [400,260]
+      },
+      {
+        "type": "water",
+        "pos": [570,190]
+      }
+    ]
+  }
+}
