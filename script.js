@@ -18,24 +18,24 @@ let currentModel = "solidmodel1"
 let pointer = 0
 let phaseChanges = [
   {
-    name: "Freezing",
+    name: "Freezing (Liquid to Solid)",
     description: `
-      When a substance's temperature is lowered to its freezing point (for water it would be 32 F or 0 C), hydrogen bonds begin forming.<br>
-      These hydrogen bonds make the substance become a solid and moves as such.
+      When a substance's temperature is lowered to its freezing point (for water it would be 32 F or 0 C), there is not enough energy for all of the hydrogen bonds to break and reform and break and reform in order to change shape.<br>This makes a solid that stays in one shape. The density actually is lowered, since there is empty space in between the molecules as they are in a hexagonal shape. The temperature does not change DURING any phase change.
     `
   },
   {
-    name: "Melting",
+    name: "Melting (Solid to Liquid)",
     description: `
-      When the energy INCREASES while a substance is frozen, the energy, rather than making the temperature increase, breaks the hydrogen bonds.<br>This makes it so it is no longer frozen and it can move in the liquid state again.
+      When the energy INCREASES while a substance is frozen, the energy, rather than making the temperature increase, makes the bonds able to break and reform and break and reform again. This increases the density for the reason I mentioned above.
     `
   },
   {
-    name: "Vaporization",
+    name: "Vaporization (Liquid to Gas)",
     description: `
-      When a substance is vaporized, it either evaporates or is boiled.
-      When a substance evaporates, the substance becomes a gas but does not make bubbles.
-      When a substance boils, the substance becomes a gas as well but it does make bubbles because the external pressure is less than the pressure of the molecules
+      When a substance is vaporized, it either evaporates or is boiled.<br>
+      When a substance evaporates, the substance becomes a gas but does not make bubbles.<br>
+      When a substance boils, the substance becomes a gas as well but it does make bubbles because the external pressure is less than the pressure of the molecules.<br>
+      When a substance is vaporized in general, density decreases because the molecules can just float around in the container. However, the temperature does not increase (as mentioned in Freezing)
     `
   }
 ]
